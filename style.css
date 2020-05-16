@@ -1,0 +1,56 @@
+.myPic {
+  height: 200px;
+  width: auto;
+  float: left;
+  padding-right: 10px;
+}
+body {
+  background-color: gray;
+}
+.aboutMeDiv {
+  background-color: white;
+}
+nav {
+  min-height: 8vh;
+}
+.container {
+  margin-top: 40px;
+  min-height: 82vh;
+}
+footer {
+  min-height: 10vh;
+}
+.myFooter {
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  color: white;
+}
+.portfolioPic1 {
+  height: 100%px;
+  width: 100%;
+  margin: 4px;
+}
+.pic1 {
+  background-image: url("PasswordG.jpg");
+  object-fit: cover;
+}
+.portfolioPic2 {
+  background-color: cyan;
+  height: 150px;
+  width: 100%;
+  margin: 4px;
+}
+.projectText {
+  text-align: center;
+  background-color: grey;
+  position: relative;
+  top: 100px;
+}
+.contact {
+  background-color: white;
+  padding: 10px;
+}
+.contactInfo {
+  background-color: white;
+}
