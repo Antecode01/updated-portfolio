@@ -27,16 +27,18 @@ footer {
   color: white;
 }
 .portfolioPic1 {
-  height: 100%px;
+  background-image: url("project1.jpg");
+  height: 100px;
   width: 100%;
   margin: 4px;
 }
-.pic1 {
+.portfoliopic3 {
   background-image: url("PasswordG.jpg");
   object-fit: cover;
+  background-repeat: no-repeat;
 }
 .portfolioPic2 {
-  background-color: cyan;
+  background-image: url("dayplanner.jpg");
   height: 150px;
   width: 100%;
   margin: 4px;
